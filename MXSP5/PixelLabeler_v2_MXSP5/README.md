@@ -1,10 +1,12 @@
 # PixelLabeler_v2_MXSP5
 
-Date: 01/01/2022
+Date: 26/05/2022
 
 **MIL Version** MIL X SP5
 
 **Type** Utilities
+
+**Note** This tool has been superseded by the MIL CoPilot MIL X Update 116.
 
 **Description**  
 PixelLabeler2.0.exe is an updated version of the segmentation labeling tool PixelLabeler.exe. The tool was developed for internal needs, and is made available as-is to the MIL user community.
